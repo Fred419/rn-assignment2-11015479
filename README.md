@@ -29,18 +29,6 @@ To set up this project on your local machine, follow these steps:
 - [Expo CLI](https://reactnative.dev/docs/environment-setup) installed
 - [Android Studio](https://developer.android.com/studio) and/or [Xcode](https://developer.apple.com/xcode/) installed for emulation
 
-### Installation
-
-1. **Clone the repository:**
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-2. **Install dependencies:**
-   npm install
-
-
-export default App;
-
 ## Committing Changes
 
 ### Task 1: Change Background Color
